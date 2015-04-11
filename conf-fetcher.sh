@@ -113,3 +113,4 @@ for i in "${!configs_values[@]}"; do
 		echo "Source and/or destination not set for ${configs_keys[$i]}! Skipping.."
 	fi
 done
+
